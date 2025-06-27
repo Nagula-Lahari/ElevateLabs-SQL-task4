@@ -1,6 +1,4 @@
-Here's a `README.md` file designed for a GitHub repository, incorporating all the details from your SQL task in a clean and easy-to-read format.
 
------
 
 # SQL Aggregate Functions and Grouping for Data Summarization
 
